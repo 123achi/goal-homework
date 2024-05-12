@@ -1,0 +1,154 @@
+<!-- ordered list -->
+
+<ol>
+    <li>color = green</li>
+    <li>name = achi</li>
+    <li>surname = gambasitze</li>
+    <li>hometown = Georgia</li>
+</ol>
+
+<!-- unordered list-->
+
+<ul>
+    <li>acadamy = goal oriented acadamy</li>
+    <li>movie = dawn of the planet of the apes</li>
+</ul>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <tr>products</tr>
+</body>
+</html>
+
+
+
+
+#1 დავალება
+
+<table border="">
+    <tr>
+        <th></th>
+
+
+
+
+
+    </tr>
+
+
+
+
+
+
+</table>
+
+
+
+ #2 დავალება
+
+<table border=""> 
+    <tr>
+        <th>product</th>
+        <th>flavor</th>
+    </tr>
+
+    <tr>
+       <td>icecream</td>
+    </tr>
+    
+    <tr>
+        <td>chocolet</td>
+        <td>vanilla</td>
+    </tr>
+
+
+</table>
+
+
+ #3 დავალება
+
+<table border="">
+    <tr> 
+        <th>product</th>
+        <th>quantiny</th>
+    </tr>
+
+    <tr>
+       <td>flower</td>
+       <td>butter</td>
+    </tr>
+
+    <tr>
+        <td>1 kilogram</td>
+        <td>4 kilograms</td>
+    </tr>
+
+
+</table>
+
+
+#4 დავალება
+
+<table border="">
+    <tr>
+       <th>month</th>
+       <th>product category</th>
+       <th>units sold</th>
+       <th>revenue</th>
+    </tr>
+
+    <tr>
+       <td>augest</td>
+       <td>september</td>
+       <td>october</td>
+    </tr>
+
+    <tr>
+       <td>electronices</td>
+       <td>water</td>
+       <td>furniture</td>
+    </tr>
+
+    <tr>
+       <td>200</td>
+       <td>180</td>
+       <td>110</td>
+    </tr>
+
+    <tr>
+       <td>25.000</td>
+       <td>10.000</td>
+       <td>9.000</td>
+    </tr>
+
+
+</table>
+
+
+#5 დავალება
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
