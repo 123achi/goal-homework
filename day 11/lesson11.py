@@ -16,7 +16,7 @@ print(95 >= 40)
 print(30 < 65)
 print(15 == 15)
 print
-print
+print  
 print       
 
 
@@ -38,4 +38,12 @@ print(90 > 70 or 90 < 70)
 
 num1 = int(input("enter any number: "))
 num2 = int(input("enter any number: "))
+
+
+
+
+
+num1 = int(input("enter any number: "))
+
+if number > 8 and number < 50:
 
