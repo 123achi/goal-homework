@@ -13,6 +13,3 @@ def check_even_or_odd(number):
     else:
         print(f"{number} aris kenti.")
 
-
-
-
